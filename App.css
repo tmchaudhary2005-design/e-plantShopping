@@ -1,0 +1,11 @@
+/* App.css */
+.landing-page {
+  background-image: url('path-to-your-background-image.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
